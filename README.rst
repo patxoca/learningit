@@ -1,4 +1,4 @@
 learningit
 ==========
 
-repo to play with git and get familiar with github
+repo to play with git and get acquainted with github
